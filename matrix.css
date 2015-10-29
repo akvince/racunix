@@ -1,0 +1,22 @@
+body {
+  background-image:url(http://doc.ubuntu-fr.org/lib/exe/fetch.php?tok=363cdb&media=http%3A%2F%2Fwww.impassionedcinema.com%2Fwordpress%2Fwp-content%2Fuploads%2F2012%2F06%2Fmatrix.gif);
+  background-attachment:fixed;
+  background-size: 100%;
+  color: #black;
+}
+
+h1 {
+font-size: 35px;
+}
+
+#container {
+  position: absolute;
+  border-radius: 20px;
+  left: 30px;
+  right: 300px;
+  border: solid #077709 5px;
+  padding-left: 10px;
+   background-color: rgba(0, 0, 0, 0.8);
+   color: #B8C0B3;
+   font-size: 25px;
+ }
