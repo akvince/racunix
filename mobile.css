@@ -1,28 +1,24 @@
-
-@media screen and (max-width: 600px)
-{
 body {
-  background-color: #3B240B;
+  background-color: #120800;
 }
-
 h1 {
   font-size: 3.1875em;
 }
-h2{
+h2 {
   font-size: 2.8em;
 }
-
-h3{
+h3 {
   font-size: 2.3em;
 }
-
 p {
   font-size: 1.8em;
 }
-
 li {
   font-size: 1.6em;
 }
-
-
+code {
+  background-color: grey;
+  border-radius: 5px;
+  font-weight: bold;
+  font-style: italic;
 }
